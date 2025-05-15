@@ -1,0 +1,10 @@
+myenv/
+
+*.npy
+*.pkl
+__pycache__/
+
+datasets/
+
+.pytest_cache/
+presentation_stage.html

@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+scipy
+scikit-image
+matplotlib
+pytest
+seaborn
+optuna

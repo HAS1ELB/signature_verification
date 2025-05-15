@@ -1,0 +1,43 @@
+Training Log - Signature Verification Project
+============================================
+
+Date: 2024-07-16
+--------------------------------------------
+Started model training.
+
+Loading training data from sign_data/train_data.csv...
+Data loaded successfully.
+
+Preprocessing images...
+Images preprocessed.
+
+Extracting features...
+Features extracted.
+
+Training SVM model...
+Model trained successfully.
+
+Saving model to models/svm_model.pkl...
+Model saved.
+
+--------------------------------------------
+Date: 2024-07-16
+Started model evaluation.
+
+Loading test data from sign_data/test_data.csv...
+Data loaded successfully.
+
+Preprocessing test images...
+Images preprocessed.
+
+Extracting test features...
+Features extracted.
+
+Evaluating model...
+Accuracy: 95%
+Precision: 94%
+Recall: 96%
+F1-Score: 95%
+
+Evaluation completed.
+--------------------------------------------
